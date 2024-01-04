@@ -9,4 +9,5 @@ or
 $ source ~/.bashrc
 
 $ roslaunch turtlesim_dwa_planner main.launch
+Control Turtle1 with your keyboard
 ```
